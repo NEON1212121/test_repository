@@ -1,0 +1,109 @@
+Private Declare PtrSafe Function mciSendString Lib "winmm.dll" Alias "mciSendStringA" ( _
+                            ByVal lpstrCommand As String, _
+                            ByVal lpstrReturnString As String, _
+                            ByVal uReturnLength As Long, _
+                            ByVal hwndCallback As Long) As Long
+                            
+                            
+Private Declare PtrSafe Function mciGetErrorString Lib "winmm" Alias "mciGetErrorStringA" ( _
+                            ByVal dwError As Long, _
+                            ByVal lpstrBuffer As String, _
+                            ByVal uLength As Long) As Long
+                                                   
+Private pAlias As String '音楽エイリアス
+Private pErrDescription As String 'APIエラーメッセージ
+Private pCommand As String 'lpstrCommand作成用
+'ステータス取得
+'戻り値："not ready","paused","playing","stopped"
+'　　　：未Open時は""空文字
+Public Function GetStatus() As String
+    If Not pHasOpen Then Exit Function
+    Dim Mode As String
+    Dim Buf As String * 20
+    pCommand = "status " & pAlias & " mode"
+    Call mciSendString(pCommand, Buf, Len(Buf), 0)
+    GetStatus = Replace(Buf, Chr(0), "")
+End Function
+'オープン：音楽ファイルのチェック兼用
+Public Function OpenSound(Optional ByVal ErrRaise As Boolean = True) As Boolean
+    OpenSound = True
+  
+    '現在の状態確認
+    Dim rtnStatus As String
+    rtnStatus = GetStatus
+    Select Case rtnStatus
+        Case "not ready"
+            Debug.Print ("not ready")
+            Exit Function '発生条件は不明
+        Case "playing", "paused", "stopped"
+            Debug.Print ("other playing")
+            Exit Function
+        Case ""
+            Debug.Print ("status: ok")
+    End Select
+  
+    'エラー
+    Call GetMciError(ret, ErrRaise)
+
+End Function
+   
+'再生：引数は秒数指定
+Public Sub Play()
+    Dim file As String
+file = "D:\FLStudio_File\Projects\My Projects\untitled.wav"  '再生する音楽ファイルのフルパス
+    ' If Not pHasOpen Then Exit Sub
+    If Not Me.OpenSound(False) Then Exit Sub
+    Debug.Print ("play")
+        pCommand = "play " & file
+        Call mciSendString(pCommand, "", 0, 0)
+End Sub
+
+   '再生位置取得：戻り値は秒数
+Public Function GetPosition() As Double
+    On Error Resume Next
+    If Not pHasOpen Then Exit Function
+  
+    Dim Buf As String * 20
+    pCommand = "status " & MySound & " position"
+    Call mciSendString(pCommand, Buf, Len(Buf), 0)
+    GetPosition = CLng(Buf) / 1000
+End Function
+
+'指定秒数スキップ
+Public Sub SkipPosition(ByVal aPostion As Long)
+    ' If Not pHasOpen Then Exit Sub
+    Dim curPos As Long
+    curPos = GetPosition() * 200
+    curPos = curPos + (aPostion * 200)
+    pCommand = "seek " & MySound & " to " & curPos
+    Call mciSendString(pCommand, "", 0, 0)
+    pCommand = "play " & MySound
+    Call mciSendString(pCommand, "", 0, 0)
+End Sub
+
+Sub SkipAhead()
+    SkipPosition (10)
+End Sub
+
+'クラス終了処理
+Private Sub Class_Terminate()
+    'あくまで念の為
+    On Error Resume Next
+    Call StopSound
+End Sub
+
+'mciSendStringのエラーメッセージ
+Private Function GetMciError(ByVal aErrCode As Long, _
+                             ByVal ErrRaise As Boolean) As String
+    Dim Buf As String * 256
+    Dim rtnCode As Long
+    rtnCode = mciGetErrorString(aErrCode, Buf, Len(Buf))
+    If rtnCode = 0 Then
+        pErrDescription = aErrCode & ":" & "不明なエラー"
+    Else
+        pErrDescription = aErrCode & ":" & Left(Buf, InStr(Buf, vbNullChar) - 1)
+    End If
+    If ErrRaise Then
+        Err.Raise Number:=vbObjectError + 513, Description:=pErrDescription
+    End If
+End Function
