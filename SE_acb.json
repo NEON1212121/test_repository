@@ -1,0 +1,4893 @@
+[
+    {
+        "BuildDate": "20250303233040",
+        "Comment": "",
+        "Cue": [
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 0,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 2411,
+                "Name": "Map1_Door",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_hydraulic_strut_air_gas_shock_door_01",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.9800000190734863
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_metal_gate_fence_impact_03",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_hyro_whir_01_stop_01",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 0.18000000715255737
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 1,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 1036,
+                "Name": "Lever_Turn_01",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_gear_drill_windup_05",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.38999998569488525
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_switch_button_push_on_off_14",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 0.30000001192092896
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 2,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": -1,
+                "Name": "ComputerPulse_04",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_ComputerPulse_04",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 1
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 3,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": -1,
+                "Name": "ComputerNoise_02",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_ComputerNoise_02",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 1
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 4,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": -1,
+                "Name": "ComputerFialed_04",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_ComputerFialed_04",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 1
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 5,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 6067,
+                "Name": "ComputerFialed_07",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_ComputerFialed_07",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 1
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 6,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": -1,
+                "Name": "ComputerPulse_08",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_ComputerPulse_08",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 0.7699999809265137
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 7,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": -1,
+                "Name": "ComputerPulse_10",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_ComputerPulse_10",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Scifi_Loading_Screen_Loop_33_Sci_Fi_Glitch_Morph_Mechanism_Texture_Futuristic",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 1
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 8,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 18091,
+                "Name": "ComputerPulse_12",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_ComputerPulse_12",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 0.47999998927116394
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 9,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 21408,
+                "Name": "ShutterUp",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_ShutterUp",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.5299999713897705
+                    }
+                ],
+                "Volume": 0.4399999976158142
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 11,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 900,
+                "Name": "Map4_Lever",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_lever_turn_push_crank_handle_med_02_01",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.6399999856948853
+                    }
+                ],
+                "Volume": 0.6100000143051147
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 10,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": -1,
+                "Name": "Map4_shutter_pulse",
+                "NumCueLimits": 2,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_stage4_shutter_pulse",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 0.6399999856948853
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "BGM"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 12,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": -1,
+                "Name": "Map5_Siren",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_198107__julius-galla__sirene-alarm-loop",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.8799999952316284
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_115_C_Sirens_TL",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.7699999809265137
+                    }
+                ],
+                "Volume": 0.44999998807907104
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 13,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": -1,
+                "Name": "Map4_Reactor",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_sci-fi_deep_electric_hum_loop_01",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.3199999928474426
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_sci-fi_electric_pulse_hum_04",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.4399999976158142
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_sci-fi_electric_pulse_hum_04_01 ",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.5
+                    }
+                ],
+                "Volume": 0.41999998688697815
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 14,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 458,
+                "Name": "Failed_01",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_sci-fi_code_fail_06",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 0.15000000596046448
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 15,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": -1,
+                "Name": "Computer_Selectable",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_ComputerPulse_05",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 0.5799999833106995
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 16,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": -1,
+                "Name": "Siren_01",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_Siren_01",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 1
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 17,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": -1,
+                "Name": "Siren_02",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_Siren_02",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 1
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 18,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": true,
+                "Length": -1,
+                "Name": "Monitor_Open",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_beep_07",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.12999999523162842
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_sci-fi_code_fail_04",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.10000000149011612
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "private_Opition_dousa",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.5
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Captured_Micron_2_Robotic_Technology_Hi_Tech_Game_Tone_Science_UFO_Space_Processed_Glitch_Hybrid_Computer",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.3499999940395355
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Sci-fi_Alien_Radar_or_Sonar_Ping_Sci_Fi_Robotic_Glitch_Morph_Mechanism_Texture",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.23999999463558197
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Futuristic_Camera_Shutter_Click_Glitch_Game_Sci_fi_Int",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.550000011920929
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Tonal_Water_Hit_Glitch_Robotic_Technology_Hi_Tech_Futuristic_Game_Hybrid_Tone_Science_UFO_Space_Sci_Fi",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.2199999988079071
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Futuristic_Camera_Shutter_Click_Glitch_Game_Sci_fi_Interface_Click_Beep_Chirp_Futuristic",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.2199999988079071
+                    }
+                ],
+                "Volume": 0.38999998569488525
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 19,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 1300,
+                "Name": "Monitor_Close",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_beep_06",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.09000000357627869
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_beep_16",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.07999999821186066
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_sci-fi_code_fail_04",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.5799999833106995
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Futuristic_Camera_Shutter_Click_Glitch_Game_Sci_fi_Interface_Click_Beep_Chirp_Futuristic",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.3499999940395355
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Tonal_Water_Hit_Glitch_Robotic_Technology_Hi_Tech_Futuristic_Game_Hybrid_Tone_Science_UFO_Space_Sci_Fi",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.4000000059604645
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "ActionTrack_1",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "ActionTrack",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 0.3100000023841858
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 43,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Random",
+                "CueTypeIndex": 3,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": -1,
+                "Name": "private_Monitor_dousa",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Hi_Tech_Gadget_Loading_Screen_12_Machine_Map_Tech_Sci_fi_Interface_Texture_Click_Beep_Chirp_Futuristic",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.23000000417232513
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Holographic_Mini_Map_Movement_Particles_3_Machine_Map_Tech_Sci_fi_Interface_Texture_Click_Beep_Chirp_Futuristic",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.1599999964237213
+                    }
+                ],
+                "Volume": 0.25
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 20,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 2135,
+                "Name": "PC_Select",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_sci-fi_code_fail_04",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.11999999731779099
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_beep_16",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.10000000149011612
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Scifi_Loading_Screen_Loop_1_Sci_Fi_Glitch_Morph_Mechanism_Texture_Futuristic",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.5899999737739563
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Horror_Scifi_High_Pitched_Chirp_Drones_Glitch_Morph_Mechanism_Texture_Futuristic",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.49000000953674316
+                    }
+                ],
+                "Volume": 0.4300000071525574
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 21,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 3000,
+                "Name": "PC_Button_Click",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_beep_01",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.11999999731779099
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_sci-fi_electric_pulse_power_down_01",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.11999999731779099
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Computer_Calculations_2_Sci_fi_Military_Robotic_Robot_Cyber_Futuristic_Transition",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.14000000059604645
+                    }
+                ],
+                "Volume": 0.5699999928474426
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 22,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 3500,
+                "Name": "Minimap_Open",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_sci-fi_beep_computer_ui_06",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Digital_Type_Writer_Particles_3_Sci_fi_Military_Robotic_Robot_Cyber_Futuristic_Transition",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.36000001430511475
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Digital_ComputerWhoosh_Sci_fi_Military_Robotic_Robot_Cyber_Futuristic_Transition",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.4300000071525574
+                    }
+                ],
+                "Volume": 0.3199999928474426
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 23,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 111,
+                "Name": "Minimap_Close",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_sci-fi_beep_computer_ui_06",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.4399999976158142
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "ActionTrack",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 0.7400000095367432
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 24,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": -1,
+                "Name": "Extinguisher",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_gas_leak_04_loop",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.41999998688697815
+                    }
+                ],
+                "Volume": 0.5199999809265137
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 25,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 285,
+                "Name": "Password_select",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_beep_11",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.5400000214576721
+                    }
+                ],
+                "Volume": 0.699999988079071
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 26,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Sequential",
+                "CueTypeIndex": 1,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 599,
+                "Name": "Password_false",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_alarm_siren_warning_01",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.4099999964237213
+                    }
+                ],
+                "Volume": 0.3100000023841858
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 27,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 736,
+                "Name": "Password_Correct",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_alarm_beep_warning_01",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.6800000071525574
+                    }
+                ],
+                "Volume": 0.3100000023841858
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 28,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 68,
+                "Name": "Password_slide",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_beep_16",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.6899999976158142
+                    }
+                ],
+                "Volume": 0.49000000953674316
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 30,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": -1,
+                "Name": "Pipe",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_gas_leak_03_loop",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.49000000953674316
+                    }
+                ],
+                "Volume": 0.6100000143051147
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 32,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 536,
+                "Name": "pipe_put",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_metal_hit_small_04",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.3700000047683716
+                    }
+                ],
+                "Volume": 0.25
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 33,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 888,
+                "Name": "Get_Item",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_GettingKey_01",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.8399999737739563
+                    }
+                ],
+                "Volume": 0.699999988079071
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "First",
+                "CategoryCuePriorityTypeIndex": 1,
+                "Comment": "",
+                "CueId": 34,
+                "CuePriorityType": 1,
+                "CuePriorityTypeIndex": "First",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": true,
+                "Length": 1802,
+                "Name": "AutoSave",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_KeyReader_01",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.6800000071525574
+                    }
+                ],
+                "Volume": 0.7900000214576721
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 35,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 1674,
+                "Name": "Option_open",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_beep_12",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.07000000029802322
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ComputerPulse_07",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.5899999737739563
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Positive_Special_Gear_Pick_Up_4_Crystal_Glitch_Robotic_Technology_Hi_Tech_Futuristic_Game_Tone_Science_UFO_Space_Mechanical",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.4300000071525574
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Captured_Micron_2_Robotic_Technology_Hi_Tech_Game_Tone_Science_UFO_Space_Processed_Glitch_Hybrid_Computer",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.41999998688697815
+                    }
+                ],
+                "Volume": 0.46000000834465027
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 38,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 1039,
+                "Name": "Option_close",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_ComputerFialed_08",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_beep_12",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.05000000074505806
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Scare_Swerv_Up_Game_FX_2_Glitch_Robotic_Technology_Hi_Tech_Futuristic_Game_Tone_Science_UFO_Space_User_Pick_Up_Arcade_Dark",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.1599999964237213
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Tonal_Water_Hit_Glitch_Robotic_Technology_Hi_Tech_Futuristic_Game_Hybrid_Tone_Science_UFO_Space_Sci_Fi",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.4099999964237213
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "ActionTrack",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 0.47999998927116394
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 39,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 1726,
+                "Name": "Option_select",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_beep_16",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.05000000074505806
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Digital_Game_Affirmation_Sound_Sci_fi_Military_Robotic_Robot_Cyber_Futuristic_Transition",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.3199999928474426
+                    }
+                ],
+                "Volume": 0.6100000143051147
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 48,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 550,
+                "Name": "Option_Slide",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Chain_Door_Lock_1_Organic_Elemental_Tonal_Tone_Accent_Friction_Foley_Sound_Design_Source",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.550000011920929
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Reload_Gold_Nug_2_Glitch_Robotic_Technology_Hi_Tech_Futuristic_Game_Tone_Science_UFO_Space_Mechanical",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.5799999833106995
+                    }
+                ],
+                "Volume": 0.8299999833106995
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 40,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 2167,
+                "Name": "light_falling",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_light_falling",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.5600000023841858
+                    }
+                ],
+                "Volume": 0.9900000095367432
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 41,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 2878,
+                "Name": "Gas_sudden",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_gas_leak_med_burst_01",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_gas_leak_short_burst_02",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 0.6600000262260437
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 42,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": -1,
+                "Name": "Alarm",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_sci-fi_alarm_siren_loop_01",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.7799999713897705
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_War_Award_Hit_Glitch_Robotic_Technology_Hi_Tech_Futuristic_Game_Tone_Science_UFO_Space_User_Pick_Up_Arcade_Dark",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.6700000166893005
+                    }
+                ],
+                "Volume": 0.46000000834465027
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 44,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 953,
+                "Name": "Title_Select",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Futuristic_Switch_Transition_Swoosh_Pass_By_Fly_Futuristic_Robotic_Technology_Hi_Tech_Game_Tone_Science_UFO_Space_Processed_Glitch_Hybrid_Sound_Air",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 1
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 47,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 1071,
+                "Name": "Title_Select_2",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Oneshot_Alien_Game_Crafting_Oxygen_Bottel_Pick_Up_4_Metal_Clanky",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.41999998688697815
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Oneshot_Alien_Game_Crafting_Robotic_Cables_Place_2_Metallic_Glitchy_SciFi",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.8299999833106995
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Oneshot_Alien_Game_UI_36_Glitchy_SciFi_Bleep_Digital_Short_Laser_Synthesized",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.3400000035762787
+                    }
+                ],
+                "Volume": 0.5299999713897705
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 46,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 7839,
+                "Name": "Title_GoToStage",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Oneshot_Alien_Game_Robotics_Door_Vault_Open_1_Metallic_Glitchy_SciFi",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.4099999964237213
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Oneshot_Alien_Game_Explosion_Distant_Space_Ship_Shot_1_Big_Hard_Impact_Glitchy_Far_Away_Distance",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.7200000286102295
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Oneshot_Alien_Game_Robotics_Airlock_Open_2_Metallic_Glitchy_SciFi_Mechanism_Sci_Fi_Space_Craft",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.46000000834465027
+                    }
+                ],
+                "Volume": 0.5400000214576721
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 45,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": true,
+                "Length": 550,
+                "Name": "Title_Slide",
+                "NumCueLimits": 2,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Chain_Door_Lock_1_Organic_Elemental_Tonal_Tone_Accent_Friction_Foley_Sound_Design_Source",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_ESM_Reload_Gold_Nug_2_Glitch_Robotic_Technology_Hi_Tech_Futuristic_Game_Tone_Science_UFO_Space_Mechanical",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 0.7799999713897705
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 0.5099999904632568,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 49,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "RandomNoRepeat",
+                "CueTypeIndex": 4,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": -1,
+                "Name": "MouseSqueak",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_MouseSqueak_SEU01.41",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_MouseSqueak_ZA02.401",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_FF_AS_mouse_squeak_patient",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_RatSqueak_BW.2791",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_RatSqueak_BW.2790",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 0.2199999988079071
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 50,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 1662,
+                "Name": "open_01",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_open_01",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.5400000214576721
+                    }
+                ],
+                "Volume": 0.6700000166893005
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 51,
+                "CuePriorityType": 0,
+                "CuePriorityTypeIndex": "Last",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": false,
+                "Length": 1140,
+                "Name": "close_01",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_close_01",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.699999988079071
+                    }
+                ],
+                "Volume": 0.25
+            },
+            {
+                "AttachedAisacControl": [
+                    {
+                        "Id": 1,
+                        "Name": "Nenryou"
+                    },
+                    {
+                        "Id": 6,
+                        "Name": "RunBreath"
+                    }
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 52,
+                "CuePriorityType": 1,
+                "CuePriorityTypeIndex": "First",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": true,
+                "Length": -1,
+                "Name": "RunBreath",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_VSQSE_0431_breath_run_fast1_01",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.6499999761581421
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_VSQSE_0431_breath_run_fast1_02",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    }
+                ],
+                "Volume": 0.1899999976158142
+            },
+            {
+                "AttachedAisacControl": [
+                    {
+                        "Id": 5,
+                        "Name": "HardBreath"
+                    }
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 53,
+                "CuePriorityType": 1,
+                "CuePriorityTypeIndex": "First",
+                "CueType": "Polyphonic",
+                "CueTypeIndex": 0,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": true,
+                "Length": 25148,
+                "Name": "HardBreath",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_voice_Reverse_male_breathing_mask_loop_run_01_01",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 1
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_HardBreath",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.5099999904632568
+                    }
+                ],
+                "Volume": 0.1599999964237213
+            },
+            {
+                "AttachedAisacControl": [
+                ],
+                "AttachedSelector": [
+                ],
+                "Blocks": [
+                ],
+                "BusSend": [
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "MasterOut"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "BGM"
+                    },
+                    {
+                        "Enable": true,
+                        "Level": 1,
+                        "Name": "SE"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Large_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ENVIRONMENT"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "Low_SPATIAL"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ALIEN"
+                    },
+                    {
+                        "Enable": false,
+                        "Level": 1,
+                        "Name": "ForPause"
+                    }
+                ],
+                "Category": [
+                    {
+                        "Name": "SE"
+                    }
+                ],
+                "CategoryCuePriority": 0,
+                "CategoryCuePriorityType": "Last",
+                "CategoryCuePriorityTypeIndex": 0,
+                "Comment": "",
+                "CueId": 54,
+                "CuePriorityType": 1,
+                "CuePriorityTypeIndex": "First",
+                "CueType": "RandomNoRepeat",
+                "CueTypeIndex": 4,
+                "DefaultSelectorLabel": {
+                    "Label": "",
+                    "Name": ""
+                },
+                "EnableCueLimit": true,
+                "Length": -1,
+                "Name": "WalkBreath",
+                "NumCueLimits": 1,
+                "Probability": 100,
+                "Public": true,
+                "Track": [
+                    {
+                        "Comment": "",
+                        "Name": "Track_VSQSE_0431_breath_walk",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.5299999713897705
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_VSQSE_0431_breath_walk_2",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.5299999713897705
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_VSQSE_0431_breath_walk_1",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.5299999713897705
+                    },
+                    {
+                        "Comment": "",
+                        "Name": "Track_VSQSE_0431_breath_walk_3",
+                        "Selector": {
+                            "Label": "",
+                            "Name": ""
+                        },
+                        "Volume": 0.5299999713897705
+                    }
+                ],
+                "Volume": 0.4099999964237213
+            }
+        ],
+        "EnableCueLimit": false,
+        "Name": "SE",
+        "NumCueLimits": 1,
+        "PriorityType": "Last",
+        "PriorityTypeIndex": 0,
+        "Volume": 2,
+        "WorkUnit": "WorkUnit_0"
+    }
+]
